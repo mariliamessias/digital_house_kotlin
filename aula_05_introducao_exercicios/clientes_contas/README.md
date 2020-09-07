@@ -10,6 +10,8 @@
 
 4. Criar uma função chamado saque que tenha como parâmetro de entrada quantiade em dinheiro. Como estamos fazendo um saque,a quantidade é subtraída do saldo. Caso o valor do saque a realizar seja maior que o saldo disponível, imprimir na tela: “Saldo insuficiente”. Caso contrário, a função deve imprimir na tela o tipo de transação realizada e o novo saldo.
 
+5. Definir uma nova classe chamada Exercicio1 e criar uma função main. Dentro da função main, criar dois clientes, passando nome e sobrenome, e criar uma conta para cada um, inicializando número da conta, saldo e titular. Em seguida, fazer um depósito e um saque em cada conta.
+
 ## Diagrama UML
 
 ![Alt text](exercicio.png?raw=true "UML")

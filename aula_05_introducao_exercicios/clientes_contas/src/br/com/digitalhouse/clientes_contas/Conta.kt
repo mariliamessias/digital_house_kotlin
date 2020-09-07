@@ -9,15 +9,15 @@ class Conta(var numero: Int, var saldo: Double, val titular: Cliente) {
 
     fun depositar(quantia: Double) {
         saldo += quantia
-        println(" _______ [DEPOSITO] _______ \n Valor: $quantia \n SaldoAtual: $saldo")
+        println(" _______ [DEPOSITO] _______ \n Conta: $numero \n Valor: $quantia \n SaldoAtual: $saldo")
     }
 
     fun sacar(quantia: Double) {
         if(saldo >= quantia ){
             saldo-=quantia
-            println(" _______ [SAQUE] _______ \n Valor: $quantia \n SaldoAtual: $saldo")
+            println(" _______ [SAQUE] _______ \n Conta: $numero \n Valor: $quantia \n SaldoAtual: $saldo")
         }else{
-            println(" _______ [SAQUE] _______ \n Valor: $quantia \n Mensagem: saldo insuficiente")
+            println(" _______ [SAQUE] _______ \n Conta: $numero \n Valor: $quantia \n Mensagem: saldo insuficiente")
         }
     }
 }
