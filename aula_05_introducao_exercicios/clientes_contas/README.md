@@ -6,9 +6,9 @@
 
 2. Definir uma nova classe Conta contendo as seguintes propriedades:- número da conta- saldo- titular (o titular é um objeto do tipo Cliente).
 
-3. Criarumafunçãochamadodepósitoquetenhacomoparâmetrodeentradaquantiaemdinheiro.Comoestamosfazendoumdepósito,aquantiadedinheiroésomadaaosaldo.Afunçãodeveimprimirnatelaotipodetransaçãorealizadae o novo saldo.
+3. Criar uma função chamado depósito que tenha como parâmetro de entrada quantia em dinheiro.Como estamos fazendo umd epósito,a quantidade dinheiro é somada ao saldo.A função deve imprimir na tela o tipo de transação realizada e o novo saldo.
 
-4. Criarumafunçãochamadosaquequetenhacomoparâmetrodeentradaquantiaemdinheiro.Comoestamosfazendoumsaque,aquantiaésubtraídadosaldo.Casoovalordosaquearealizarsejamaiorqueosaldodisponível,imprimirnatela:“Saldoinsuficiente”.Casocontrário,afunçãodeveimprimirnatelaotipode transação realizada e o novo saldo.
+4. Criar uma função chamado saque que tenha como parâmetro de entrada quantiade em dinheiro. Como estamos fazendo um saque,a quantidade é subtraída do saldo. Caso o valor do saque a realizar seja maior que o saldo disponível, imprimir na tela: “Saldo insuficiente”. Caso contrário, a função deve imprimir na tela o tipo de transação realizada e o novo saldo.
 
 ## Diagrama UML
 
