@@ -1,6 +1,6 @@
 # Repositório de Projetos das Aulas
 
-Neste repositório ficarão contidos os repositórios com os conteúdos das aulas dp curso de Android utilizando a linguagem Kotlin.
+Neste repositório ficarão contidos os repositórios com os conteúdos das aulas do curso de Android utilizando a linguagem Kotlin.
 
 ## Sobre o Curso:
 
