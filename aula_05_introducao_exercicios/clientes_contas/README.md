@@ -12,4 +12,4 @@
 
 ## Diagrama UML
 
-![Alt text](exercicio1.png?raw=true "Title")
+![Alt text](exercicio1.png?raw=true "UML")
