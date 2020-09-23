@@ -6,7 +6,7 @@ Queremos desenvolver um sistema informático para uma concessionária de veícul
 
 Como estratégia de marketing, a concessionária quer ter um registro dos clientes que compram os veículos.O departamento de marketing da concessionária precisa saber o nome,o sobrenome e alguma informação de contato dos clientes para poder oferecer outros carros no futuro. Por outro lado, o departamento de contabilidade da concessionária quer ter um registro das vendas realizadas. Cada registro deve ter as seguintes informações:-valorDaVenda-veiculoVendido-cliente
 
-1.Fazer um diagrama de classe representando o modelo que queremos implementar.
+1. Fazer um diagrama de classe representando o modelo que queremos implementar.
 
 2. Implementar cada classe e definir as propriedades. As classes que devem ser implementadas são: Concessionária, Cliente, Venda e Veículo.
 
